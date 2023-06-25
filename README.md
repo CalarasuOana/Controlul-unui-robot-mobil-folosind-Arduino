@@ -19,6 +19,7 @@ Ghid pentru instalarea aplicației Arduino:
 	14. Aplicația Arduino este acum instalată și configurată pentru a programa și comunica cu placa masinuta Arduino.
 
 Pentru instalarea bibliotecilor urmati pasii urmatori:
+
 	1. Accesați meniul "Sketch" (Schiță) și apoi "Include Library" (Includere bibliotecă).
 	2. Apare o listă cu biblioteci disponibile. Cautati bibliotecile „spi.h”, „MFRC522”, „Adafruit_GFX”, „Adafruit_SSD1306” pe rand.
 	3. Când găsiți biblioteca dorită, faceți clic pe numele acesteia pentru a deschide fereastra de instalare.
@@ -27,6 +28,7 @@ Pentru instalarea bibliotecilor urmati pasii urmatori:
 	6. După finalizarea instalării, biblioteca va fi disponibilă pentru a fi utilizată în proiectul meu „Controlul unui robot mobil folosind Arduino”.
 
 Ghid pentru compilarea codului in Arduino:
+
 	1. Pentru ca mașinuța să urmăreasca traseu folosiți fisierul „traseu_complet_robot_mobil”.
 	2. Deschideți fișierul de cod sursă în Arduino IDE. Puteți face acest lucru prin intermediul meniului "File" (Fișier) -> "New" (Nou) sau "File" (Fișier) -> "Open" (Deschideți) pentru a selecta fișierul ”traseu_complet_robot_mobil”.
 	3. Puteți rula programul pe placa Arduino făcând clic pe butonul "Upload" (Încărcare) din bara de instrumente sau utilizând combinația de taste "Ctrl + U". Arduino IDE va compila programul și îl va încărca pe placa Arduino conectată.
@@ -35,6 +37,7 @@ Ghid pentru compilarea codului in Arduino:
 	5. Pentru a controla masinuta prin aplicatia RoboMasina Control, descarcati fisierul „conexiune_RoboMasinaControl” si urmati pasii de mai sus, dar aceasta functionalitate va fi posibila doar prin intermediul aplicației mobile utilizată în Android Studio. 
 
 Ghid pentru instalarea aplicatiei Android Studio
+
 	1. Accesați site-ul oficial Android Studio: https://developer.android.com/studio
 	2. Faceți clic pe butonul "Download" pentru a descărca fișierul de instalare.
 	3. După finalizarea descărcării, deschideți fișierul de instalare.
