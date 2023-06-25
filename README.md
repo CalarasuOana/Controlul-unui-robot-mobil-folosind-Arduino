@@ -33,8 +33,8 @@ Ghid pentru compilarea codului in Arduino:
 	2. Deschideți fișierul de cod sursă în Arduino IDE. Puteți face acest lucru prin intermediul meniului "File" (Fișier) -> "New" (Nou) sau "File" (Fișier) -> "Open" (Deschideți) pentru a selecta fișierul ”traseu_complet_robot_mobil”.
 	3. Puteți rula programul pe placa Arduino făcând clic pe butonul "Upload" (Încărcare) din bara de instrumente sau utilizând combinația de taste "Ctrl + U". Arduino IDE va compila programul și îl va încărca pe placa Arduino conectată.
 	4. După ce a fost compilat, veti vedea in ”Serial monitor” starile robotului mobil si afisarea valorilor primite de la senzori.
-  5. Pentru aflarea codului uid al tag-ului RFID trebuie incarcat fisierul „fisierul_uid_tag” pe placa Arduino Mega cu ajutorul aplicației Android Studio, iar apoi trebuie pus tag-ul pe cititorul RFID, iar in Serial Monitor va fi afișat uid-ul.
-	5. Pentru a controla masinuta prin aplicatia RoboMasina Control, descarcati fisierul „conexiune_RoboMasinaControl” si urmati pasii de mai sus, dar aceasta functionalitate va fi posibila doar prin intermediul aplicației mobile utilizată în Android Studio. 
+  	5. Pentru aflarea codului uid al tag-ului RFID trebuie incarcat fisierul „fisierul_uid_tag” pe placa Arduino Mega cu ajutorul aplicației Android Studio, iar apoi trebuie pus tag-ul pe cititorul RFID, iar in Serial Monitor va fi afișat uid-ul.
+	6. Pentru a controla masinuta prin aplicatia RoboMasina Control, descarcati fisierul „conexiune_RoboMasinaControl” si urmati pasii de mai sus, dar aceasta functionalitate va fi posibila doar prin intermediul aplicației mobile utilizată în Android Studio. 
 
 Ghid pentru instalarea aplicatiei Android Studio
 
