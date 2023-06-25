@@ -2,6 +2,7 @@
 Aceasta este o colecție de coduri sursă pentru proiectul meu „Controlul unui robot mobil folosind Arduino”. Codurile furnizate includ programe pentru efectuarea manevrelor pe traseu, dar și controlarea robotului mobil prin aplicatia „RoboMasina Control” implementata in Android Studio. 
 
 Ghid pentru instalarea aplicației Arduino:
+
 	1. Accesați site-ul oficial Arduino: https://www.arduino.cc/
 	2. Navigați la pagina de descărcare: https://www.arduino.cc/en/software
 	3. Selectați versiunea potrivită pentru sistemul de operare pe care îl utilizați (Windows, macOS, Linux).
